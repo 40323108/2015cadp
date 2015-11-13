@@ -28,7 +28,7 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
-<v t="amd.20150919112710.1"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -43,7 +43,7 @@
 <v t="leo.20151113184935.1"><vh>@edit 2015cp_hw_w5.md</vh></v>
 <v t="leo.20151113184931.1"><vh>@edit 2015cp_hw_w6.md</vh></v>
 <v t="leo.20151113184926.1"><vh>@edit 2015cp_hw_w7.md</vh></v>
-<v t="amd.20150919114035.1"><vh>@edit 2015cp_hw_w8.md</vh></v>
+<v t="leo.20151113200826.1"><vh>@edit 2015cp_hw_w8.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>

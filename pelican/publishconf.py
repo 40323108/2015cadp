@@ -7,8 +7,8 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = 'KMOL'
-SITENAME = '2015FALL KMOL 課程'
+AUTHOR = '40323108'
+SITENAME = '2015FALL CADP '
 SITEURL = ''
 
 PATH = 'content'
