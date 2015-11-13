@@ -319,21 +319,6 @@
 </v>
 </v>
 </v>
-<v t="leo.20151113183833.1"><vh>@clean simplest3.html</vh>
-<v t="leo.20151113183833.2"><vh>檔案說明</vh></v>
-<v t="leo.20151113183833.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151113183833.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151113183833.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151113183833.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151113183833.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151113183833.8"><vh>作業任務一</vh></v>
-<v t="leo.20151113183833.9"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="leo.20151113183833.10"><vh>script</vh></v>
-</v>
-</v>
-</v>
 <v t="leo.20151113183836.1"><vh>@clean simplest4.html</vh>
 <v t="leo.20151113183836.2"><vh>檔案說明</vh></v>
 <v t="leo.20151113183836.3" a="E"><vh>html 標註</vh>
@@ -346,6 +331,21 @@
 </v>
 </v>
 <v t="leo.20151113183836.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151113183833.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151113183833.2"><vh>檔案說明</vh></v>
+<v t="leo.20151113183833.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151113183833.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151113183833.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151113183833.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151113183833.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151113183833.8"><vh>作業任務一</vh></v>
+<v t="leo.20151113183833.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151113183833.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
