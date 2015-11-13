@@ -36,14 +36,14 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="leo.20151110120846.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151113184939.1"><vh>@edit 2015cphww2.md</vh></v>
-<v t="leo.20151113184940.1"><vh>@edit 2015cphww3.md</vh></v>
-<v t="leo.20151113184937.1"><vh>@edit 2015cphww4.md</vh></v>
-<v t="leo.20151113184935.1"><vh>@edit 2015cphww5.md</vh></v>
-<v t="leo.20151113184931.1"><vh>@edit 2015cphww6.md</vh></v>
-<v t="leo.20151113184926.1"><vh>@edit 2015cphww7.md</vh></v>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="leo.20151110120846.1"><vh>@edit 2015cp_hw_w1.md</vh></v>
+<v t="leo.20151113184939.1"><vh>@edit 2015cp_hw_w2.md</vh></v>
+<v t="leo.20151113184940.1"><vh>@edit 2015cp_hw_w3.md</vh></v>
+<v t="leo.20151113184937.1"><vh>@edit 2015cp_hw_w4.md</vh></v>
+<v t="leo.20151113184935.1"><vh>@edit 2015cp_hw_w5.md</vh></v>
+<v t="leo.20151113184931.1"><vh>@edit 2015cp_hw_w6.md</vh></v>
+<v t="leo.20151113184926.1"><vh>@edit 2015cp_hw_w7.md</vh></v>
+<v t="amd.20150919114035.1"><vh>@edit 2015cp_hw_w8.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
