@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -289,9 +289,10 @@
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
-<v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
-<v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="amd.20150915211351.7"><vh>班級姓名</vh></v>
+<v t="amd.20150915211351.9"><vh>上課內容</vh></v>
+<v t="amd.20150915211351.12"><vh>課程心得</vh></v>
+<v t="leo.20151117192623.1"><vh>自評分數</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -304,27 +305,13 @@
 <v t="leo.20151110122344.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151110122344.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151110122344.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151110122344.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151110122344.8"><vh>作業任務一</vh></v>
-<v t="leo.20151110122344.9"><vh>第3張投影片</vh></v>
+<v t="leo.20151117192901.1"><vh>班級姓名</vh></v>
+<v t="leo.20151117192915.1"><vh>上課內容</vh></v>
+<v t="leo.20151117192923.1"><vh>課程心得</vh></v>
+<v t="leo.20151117192928.1"><vh>自評分數</vh></v>
 </v>
 </v>
 <v t="leo.20151110122344.10"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20151113183836.1"><vh>@clean simplest4.html</vh>
-<v t="leo.20151113183836.2"><vh>檔案說明</vh></v>
-<v t="leo.20151113183836.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151113183836.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151113183836.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151113183836.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151113183836.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151113183836.8"><vh>作業任務一</vh></v>
-<v t="leo.20151113183836.9"><vh>第3張投影片</vh></v>
-</v>
-</v>
-<v t="leo.20151113183836.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -340,6 +327,21 @@
 </v>
 </v>
 <v t="leo.20151113183833.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151113183836.1"><vh>@clean simplest4.html</vh>
+<v t="leo.20151113183836.2"><vh>檔案說明</vh></v>
+<v t="leo.20151113183836.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151113183836.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151113183836.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151113183836.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151113183836.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151113183836.8"><vh>作業任務一</vh></v>
+<v t="leo.20151113183836.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151113183836.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2098,9 +2100,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h2&gt;課程心得&lt;/h2&gt;
+    &lt;p&gt;這週第一次上課,就開始在github建立個人倉儲了,在過程中照著老師老師的步驟一步一步去做,不過建好後還是出現了404,之後又建了一個新的倉儲重複做了一次,不過卻成功了,不知道是哪裡出了問題,不過還是有成功建好個人網頁及了解用github新創分支,覺得這次有聽懂一些也有做出來很開心!!&lt;/p&gt;
+    
 &lt;/section&gt;
 				
 </t>
@@ -2131,24 +2133,32 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;section&gt;  
-   
-        &lt;h2&gt;四設計二甲&lt;/h2&gt;
-    
-        &lt;p&gt;40323108 謝馨慧 09/17&lt;/p&gt;	
-    &lt;/section&gt;        
-    &lt;section&gt;
-        &lt;h2&gt;四設計二甲&lt;/h2&gt;
-    
-        &lt;p&gt;40323108 謝馨慧 09/17&lt;/p&gt;	
-   &lt;/section&gt;     
+   &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323108  謝馨慧   09/17&lt;/p&gt;	
+ 
 &lt;/section&gt;
 	
 </t>
-<t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;W1 上課內容&lt;/h2&gt;
-    &lt;p&gt;一有關作業任務一的說明&lt;/p&gt;
+<t tx="amd.20150915211351.9">&lt;section&gt;
+    &lt;section&gt;  
+   
+        &lt;h2&gt;上課內容&lt;/h2&gt;
     
+        &lt;p&gt;
+        1.在github建立一個命名為2015cadp的個人倉儲
+        2.用git  git clone將剛建好的倉儲拉到近端
+        3.git branch gh-pages 加入新的分支
+        4.git checkout gh-pages 切換到分支
+        5.將老師資料複製進分支內,並且將檔名為Remade的檔案刪除&lt;/p&gt;	
+    &lt;/section&gt;        
+    &lt;section&gt;
+    
+        &lt;p&gt;
+        6.git add .(拍快照)
+        7.git commit -m "註解"
+        8.git push origin gh-pages 
+        9.40323108.github.io/2015cadp 為個人網頁,查看是否成功建立&lt;/p&gt;	
+   &lt;/section&gt;     
 &lt;/section&gt;
 				
 </t>
@@ -2448,29 +2458,6 @@ Diff...
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
-</t>
-<t tx="leo.20151110122344.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;四設計二甲&lt;/h2&gt;
-    &lt;p&gt;40323108 謝馨慧 09/24&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="leo.20151110122344.8">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="leo.20151110122344.9">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
 </t>
 <t tx="leo.20151113183833.1">@language xml
 @tabwidth -4
@@ -2901,6 +2888,45 @@ Diff...
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151117192623.1">&lt;section&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;p&gt;W1:  70  &lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151117192901.1">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+   &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323108  謝馨慧   09/17&lt;/p&gt;	
+ 
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151117192915.1">&lt;section&gt;  
+   &lt;h2&gt;上課內容&lt;/h2&gt;
+    &lt;p&gt;
+        1.投影片的新增及製作,將上課內容及作業放入投影片中
+        2.討論已在github建立好的倉儲及分支為何輸入網址仍無法開啟網頁&lt;/p&gt;	
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151117192923.1">&lt;section&gt;
+    &lt;h2&gt;課程心得&lt;/h2&gt;
+    &lt;p&gt;這週修改投影片內容,學習使用leo,修改後可先在近端看修改的樣子,如沒有錯誤再推到遠端較好,我覺得成功推回遠端超有成就感的,從之前的網頁一直是404,到現在開始弄投影片了,這次課堂上討論push後網頁仍無法顯示,因為一開始我也出現這個問題,同學有人也是,之後討論後認為可能是github還沒做信箱確認,也可能是要等它一段時間網頁就會跑出來&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151117192928.1">&lt;section&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;p&gt;W2:  75  &lt;/p&gt;
+    
 &lt;/section&gt;
 				
 </t>
