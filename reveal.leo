@@ -37,13 +37,7 @@
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="leo.20151110120846.1"><vh>@edit 2015cp_hw_w1.md</vh></v>
-<v t="leo.20151113184939.1"><vh>@edit 2015cp_hw_w2.md</vh></v>
-<v t="leo.20151113184940.1"><vh>@edit 2015cp_hw_w3.md</vh></v>
-<v t="leo.20151113184937.1"><vh>@edit 2015cp_hw_w4.md</vh></v>
-<v t="leo.20151113184935.1"><vh>@edit 2015cp_hw_w5.md</vh></v>
-<v t="leo.20151113184931.1"><vh>@edit 2015cp_hw_w6.md</vh></v>
-<v t="leo.20151113184926.1"><vh>@edit 2015cp_hw_w7.md</vh></v>
-<v t="leo.20151113200826.1"><vh>@edit 2015cp_hw_w8.md</vh></v>
+<v t="harry.20151117164308.1"><vh>@edit 2015cp_hw_w2.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -289,7 +283,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -304,7 +298,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151110122344.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151110122344.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151110122344.2"><vh>檔案說明</vh></v>
 <v t="leo.20151110122344.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151110122344.4" a="E"><vh>body 標註</vh>
@@ -2137,15 +2131,16 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    
+    &lt;p&gt;40323108 謝馨慧 09/17&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h2&gt;W1 上課內容&lt;/h2&gt;
+    &lt;p&gt;一有關作業任務一的說明&lt;/p&gt;
+    
 &lt;/section&gt;
 				
 </t>
@@ -2255,8 +2250,8 @@ ip.config.ProfileDir </t>
 <t tx="amd.20150919120205.1"></t>
 <t tx="amd.20150919124128.1">@language python
 import os
-os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
-''')
+#os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3''')
+os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress''')
 g.es("pelican 執行完畢")</t>
 <t tx="ibm.20150918175403.1">@language xml
 @tabwidth -4
@@ -2450,8 +2445,8 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323108 謝馨慧 09/24&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
