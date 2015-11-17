@@ -35,7 +35,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="leo.20151110120846.1"><vh>@edit 2015cp_hw_w1.md</vh></v>
 <v t="harry.20151117164308.1"><vh>@edit 2015cp_hw_w2.md</vh></v>
 <v t="leo.20151117195024.1"><vh>@edit 2015cp_hw_w3.md</vh></v>
@@ -385,7 +385,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151113183842.1" a="E"><vh>@clean simplest7.html</vh>
+<v t="leo.20151113183842.1"><vh>@clean simplest7.html</vh>
 <v t="leo.20151113183842.2"><vh>檔案說明</vh></v>
 <v t="leo.20151113183842.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151113183842.4" a="E"><vh>body 標註</vh>
@@ -401,7 +401,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151113184018.1" a="E"><vh>@clean simplest8.html</vh>
+<v t="leo.20151113184018.1"><vh>@clean simplest8.html</vh>
 <v t="leo.20151113184018.2"><vh>檔案說明</vh></v>
 <v t="leo.20151113184018.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151113184018.4" a="E"><vh>body 標註</vh>
