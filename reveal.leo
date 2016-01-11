@@ -35,7 +35,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="leo.20160111125707.1"><vh>@edit 40323108_cp_w17.md</vh></v>
 <v t="leo.20160111125658.1"><vh>@edit 40323108_cp_w16.md</vh></v>
 <v t="leo.20160111125647.1"><vh>@edit 40323108_cp_w15.md</vh></v>
@@ -52,6 +52,7 @@
 <v t="leo.20151117204655.1"><vh>@edit 2015cp_hw_w7.md</vh></v>
 <v t="leo.20151117210802.1"><vh>@edit 2015cp_hw_w8.md</vh></v>
 </v>
+<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="leo.20160111125405.1"><vh>@clean 40323108_cp_w11.html</vh>
 <v t="leo.20160111125405.2"><vh>檔案說明</vh></v>
 <v t="leo.20160111125405.3" a="E"><vh>html 標註</vh>
@@ -199,7 +200,6 @@
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
